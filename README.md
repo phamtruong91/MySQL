@@ -58,7 +58,10 @@ SHOW DATABASE;
 ```
    SHOW TABLES;
 ```
-2.Hiển thị thông tin 
+2.Hiển thị thông tin của một bảng
+```
+   DESCRIBE TABLE_NAME; 
+```
 
 
 
